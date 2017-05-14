@@ -24,7 +24,7 @@ typedef struct {
 // Code to perform a Dijkstra analysis for the Simple Garmin
 #include "SimpleGarmin.h"
 // test files supported with the code
-#define testfile "Countrydriving.txt"
+#define testfile "CountryDriving.txt"
 // It is the user's responsibility to read in the data for an edge
 // The data corresponds to the fields in a MapDatabase structure.
 // The function is called by the Garmin to form a MapDatabase object
@@ -84,8 +84,3 @@ int main()
     MySimpleGarmin(G, "Orlando", MinimumDistance, "(mileage, using minimum distance)");
     return 0;
 } // end main
-
-
-
-
-
