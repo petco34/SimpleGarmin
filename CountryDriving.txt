@@ -1,0 +1,15 @@
+9
+
+Dallas	Denver	Fargo	Fairbanks	Morgantown	NewYork	
+Orlando	Phoenix	Seattle
+
+Dallas 3	Phoenix	1065	Orlando 1092	NewYork 1548	
+Denver 3	Phoenix 864	Seattle 1317	Fargo 882
+Fargo 2		NewYork 1431	Seattle 1425	
+Fairbanks 1	Seattle 2238	
+Morgantown 1	Denver 1464
+NewYork	5	Fairbanks 4247	Seattle 2852	Orlando 1072	Morgantown 378 Dallas 1548
+Orlando	2	Dallas 1084	NewYork 1072
+Phoenix	3	Seattle 1421	Denver 864	Dallas 1064
+Seattle 4	Fairbanks 2238	Denver 1317	Phoenix 1421	NewYork 2852
+

@@ -1,0 +1,13 @@
+8
+
+LosAngeles    Malibu      SantaBarbara   Barstow
+Riverside     PalmSprings SanDiego       ElCajon
+
+Malibu          2  LosAngeles   20       SantaBarbara    45
+SantaBarbara    3  Malibu       45       LosAngeles      30    Barstow     45
+LosAngeles      4  Malibu       20       SantaBarbara    30    Riverside   25    SanDiego   100
+Barstow         2  SantaBarbara 45       Riverside       75
+Riverside       4  LosAngeles   25       Barstow         75    PalmSprings 75    SanDiego   90
+PalmSprings     1  Riverside    75
+SanDiego        3  ElCajon      15       LosAngeles     100    Riverside   90
+ElCajon         1  SanDiego     15
